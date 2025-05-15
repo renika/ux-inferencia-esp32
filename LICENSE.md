@@ -1,17 +1,20 @@
-Licença
+Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)
 
-Este material é licenciado sob a licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0).
+Você tem a liberdade de:
 
-Você pode:
+✔ Compartilhar — copiar e redistribuir o material em qualquer meio ou formato  
+✔ Adaptar — remixar, transformar e criar a partir do material para qualquer fim, mesmo que comercial.
 
-Compartilhar — copiar e redistribuir o material em qualquer meio ou formato
+Sob os seguintes termos:
 
-Adaptar — remixar, transformar, e criar a partir do material para qualquer fim, mesmo que comercial
+📌 Atribuição — Você deve dar o crédito apropriado, prover um link para a licença, e indicar se mudanças foram feitas. Você pode fazê-lo de qualquer forma razoável, mas de modo algum que sugira que o licenciador endossa você ou o seu uso.
 
-Desde que:
+📌 Compartilhamento pela mesma licença — Se você remixar, transformar, ou criar a partir do material, você deve distribuir suas contribuições sob a mesma licença que o original.
 
-Atribuição — você dê crédito apropriado, forneça um link para a licença, e indique se mudanças foram feitas.
+📌 Sem restrições adicionais — Você não pode aplicar termos legais ou medidas tecnológicas que restrinjam legalmente outros de fazer algo que a licença permita.
 
-Compartilhamento pela mesma licença — se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença que o original.
+Informações completas em: https://creativecommons.org/licenses/by-sa/4.0/legalcode.pt
 
-Mais detalhes: https://creativecommons.org/licenses/by-sa/4.0/
+---
+
+Esta licença não substitui um contrato. Você ainda pode obter permissões separadas do detentor dos direitos autorais. 
